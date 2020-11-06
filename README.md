@@ -1,1 +1,1 @@
-# HuffmanProject
+This project is my implementation of huffman coding. It can take a text file as input and write the huffman code to a new file, or take an encoded file and write the original decoded text to new file. 
